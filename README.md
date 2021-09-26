@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm John. I'm a Front End Web Developer. Welcome to my playground.
 
 <!--
 **johnhongannguyen/johnhongannguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ### Languages and Tools: 
+-->
+
