@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I'm John. I'm a Front End Web Developer. Welcome to my playground.
+### I'm John. I'm a Front End Web Developer !!!
 
-### 🔥 Software Developer grinding hard to make something cool.
+### 🔥 I'm trying to deal with hard problems to make something cool and enhance myself.
 ### ✨ Favorite Tech: JavaScript, React, Node.js, Express.js, Java ...
 ### 📓 I’m currently learning PHP and Algo... 😭
 ### 📧 johhaneshongan@gmail.com 
