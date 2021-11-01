@@ -1,6 +1,14 @@
 ### Hi there 👋
 ### I'm John. I'm a Front End Web Developer. Welcome to my playground.
 
+🔥 Software Developer grinding hard to make something cool
+✨ Favorite Tech: JavaScript, React, Node.js, Express.js, Java ...
+📓 I’m currently learning PHP and Algo... 😭
+📧 johhaneshongan@gmail.com
+🎨 Portfolio: https://johhanes-nguyen.com/
+💼 LinkedIn: https://www.linkedin.com/in/johnnguyen1210/
+
+
 <!--
 **johnhongannguyen/johnhongannguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
