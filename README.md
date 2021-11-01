@@ -4,9 +4,11 @@
 ### 🔥 I'm trying to deal with hard problems to make something cool and enhance myself.
 ### ✨ Favorite Tech: JavaScript, React, Node.js, Express.js, Java ...
 ### 📓 I’m currently learning PHP and Algo... 😭
+### 👯 I’m seeking an opportuinity to work in the industry.
 ### 📧 johhaneshongan@gmail.com 
 ### 🎨 Portfolio: https://johhanes-nguyen.com/
 ### 💼 LinkedIn: https://www.linkedin.com/in/johnnguyen1210/
+
 
 
 <!--
