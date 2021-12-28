@@ -6,7 +6,7 @@
 ### 📓 I’m currently learning PHP and Algo... 😭
 ### 👯 I’m seeking an opportuinity to work in the industry.
 ### 📧 johhaneshongan@gmail.com 
-### 🎨 Portfolio: https://johhanes-nguyen.com/
+### 🎨 Portfolio: http://www.john-nguyen.info/
 ### 💼 LinkedIn: https://www.linkedin.com/in/johnnguyen1210/
 
 
