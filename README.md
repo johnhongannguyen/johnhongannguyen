@@ -2,7 +2,6 @@
 
 🚀 Full-Stack Developer | 📍 Vancouver, BC | 🇨🇦 Aspiring to grow in Calgary's tech scene  
 💻 Passionate about building modern web apps with **PHP (Laravel)** and **JavaScript (React/Next.js)**  
-📈 Currently learning **Python for backend and data science** | Exploring **MERN Stack**
 
 ---
 
@@ -66,14 +65,6 @@
 🔹 **[Portfolio Website](http://www.john-nguyen.info/)** — A responsive site showcasing my work and skills  
 🔹 **[GitHub Projects](https://github.com/johnhongannguyen?tab=repositories)** — Real-world apps built with Laravel, React, and more  
 🔹 **Blog Platform (Coming Soon)** — A Laravel + MySQL blog with full CRUD & authentication
-
----
-
-## 📌 Currently Working On
-
-- 🧠 12-week job-prep roadmap (Python backend + JavaScript full-stack)
-- 📝 Creating a blog website with Laravel
-- 🔍 Seeking full-time opportunities in **Calgary**
 
 ---
 
