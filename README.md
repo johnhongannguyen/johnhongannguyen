@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Nguyen
 
-🚀 Full-Stack Developer | 📍 Vancouver, BC | 🇨🇦 Aspiring to grow in Calgary's tech scene  
+🚀 Full-Stack Developer | 📍 Vancouver, BC 🇨🇦 
 💻 Passionate about building modern web apps with **PHP (Laravel)** and **JavaScript (React/Next.js)**  
 
 ---
