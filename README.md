@@ -59,15 +59,6 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
 
 ---
-
-## 📂 Featured Projects
-
-🔹 **[Portfolio Website](http://www.john-nguyen.info/)** — A responsive site showcasing my work and skills  
-🔹 **[GitHub Projects](https://github.com/johnhongannguyen?tab=repositories)** — Real-world apps built with Laravel, React, and more  
-🔹 **Blog Platform (Coming Soon)** — A Laravel + MySQL blog with full CRUD & authentication
-
----
-
 ## 📬 Get in Touch
 
 - 📧 Email: john.nguyen.hongan.canada@gmail.com  
